@@ -1,8 +1,8 @@
 
 <p align="center">
-<img width="600px" src="https://github-readme-stats.vercel.app/api?username=Psyll"><br>
-<img width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=psyll"><br>
-<img width="600px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyll&show_icons=true&locale=en&layout=compact&card_width=800">
+<img width="600px" src="https://github-readme-stats.vercel.app/api?username=Bothub-Global-AB"><br>
+<img width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bothub-Global-AB"><br>
+<img width="600px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bothub-Global-AB&show_icons=true&locale=en&layout=compact&card_width=800">
 </p>
 
 ## Languages and technologies
